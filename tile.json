@@ -1,0 +1,6 @@
+{
+  "tiles":["https://hfujimura.gitlab.io/lka1803/{z}/{x}/{y}.pbf"],
+  "attribution":"&copy; OpenMapTiles &copy; OpenStreetMap contributors",
+  "maxzoom":14,
+  "tilejson":"2.2.0"
+}
